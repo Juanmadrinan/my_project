@@ -50,7 +50,7 @@ export function About() {
             
             <div className="space-y-4">
               <p className="text-muted-foreground text-sm lg:text-base leading-relaxed">
-                Nuestro equipo de expertos en viajes es apasionado por explorar el mundo y ayudar a nuestros clientes a hacer lo mismo. Con anos de experiencia en la industria del turismo, hemos desarrollado fuertes relaciones con proveedores y socios en todo el mundo, lo que nos permite ofrecer ofertas exclusivas y acceso privilegiado a algunos de los destinos mas increibles del planeta.
+                Nuestro equipo de expertos en viajes es apasionado por explorar el mundo y ayudar a nuestros clientes a hacer lo mismo. Con años de experiencia en la industria del turismo, hemos desarrollado fuertes relaciones con proveedores y socios en todo el mundo, lo que nos permite ofrecer ofertas exclusivas y acceso privilegiado a algunos de los destinos mas increibles del planeta.
               </p>
               <p className="text-muted-foreground text-sm lg:text-base leading-relaxed">
                 En nuestra agencia de viajes, creemos que viajar es mas que solo visitar lugares nuevos: se trata de experimentar nuevas culturas, conocer gente nueva y crear recuerdos que duran toda la vida.

@@ -12,7 +12,7 @@ const testimonials = [
     avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&crop=face",
     rating: 5,
     destination: "Tour Playa Hawaii",
-    text: "Una experiencia absolutamente increible! Vives Experiencias Travel hizo nuestra luna de miel inolvidable. Cada detalle fue perfectamente planificado, desde el lujoso resort hasta las cenas privadas en la playa. No puedo esperar para reservar nuestra proxima aventura con ellos!",
+    text: "Una experiencia absolutamente increible! Vive Experiencias Travel hizo nuestra luna de miel inolvidable. Cada detalle fue perfectamente planificado, desde el lujoso resort hasta las cenas privadas en la playa. No puedo esperar para reservar nuestra proxima aventura con ellos!",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const testimonials = [
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
     rating: 5,
     destination: "Tour Cultural Japon",
-    text: "Vives Experiencias Travel supero todas las expectativas. Sus guias locales eran conocedores y apasionados. Exploramos joyas ocultas en Tokio y Kioto que nunca habriamos encontrado por nuestra cuenta. Una experiencia verdaderamente autentica!",
+    text: "Vive Experiencias Travel supero todas las expectativas. Sus guias locales eran conocedores y apasionados. Exploramos joyas ocultas en Tokio y Kioto que nunca habriamos encontrado por nuestra cuenta. Una experiencia verdaderamente autentica!",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const testimonials = [
     avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
     rating: 5,
     destination: "Safari Africano",
-    text: "El viaje de safari fue un sueno hecho realidad! Ver los Cinco Grandes en su habitat natural fue impresionante. Los alojamientos eran lujosos y los guias excepcionales. Vives Experiencias Travel lo hizo todo perfecto.",
+    text: "El viaje de safari fue un sueno hecho realidad! Ver los Cinco Grandes en su habitat natural fue impresionante. Los alojamientos eran lujosos y los guias excepcionales. Vive Experiencias Travel lo hizo todo perfecto.",
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const testimonials = [
     avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
     rating: 5,
     destination: "Aventura en Islandia",
-    text: "Ver las Auroras Boreales estaba en mi lista de deseos durante anos, y Vives Experiencias Travel lo hizo realidad! El senderismo en glaciares y las aguas termales fueron increibles. Su atencion al detalle es incomparable.",
+    text: "Ver las Auroras Boreales estaba en mi lista de deseos durante anos, y Vive Experiencias Travel lo hizo realidad! El senderismo en glaciares y las aguas termales fueron increibles. Su atencion al detalle es incomparable.",
   },
 ]
 
@@ -70,7 +70,7 @@ export function Testimonials() {
               Lo Que Dicen Nuestros Viajeros
             </h2>
             <p className="text-muted-foreground text-base lg:text-lg max-w-xl">
-              Historias reales de viajeros reales que experimentaron la diferencia de Vives Experiencias Travel
+              Historias reales de viajeros reales que experimentaron la diferencia de Vive Experiencias Travel
             </p>
           </div>
 

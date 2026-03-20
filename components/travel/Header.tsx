@@ -22,7 +22,7 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <span className="text-lg lg:text-xl font-bold text-foreground tracking-tight">
-              Vives <span className="text-primary">Experiencias</span> Travel
+              Vive <span className="text-primary">Experiencias</span> Travel
             </span>
           </Link>
 
